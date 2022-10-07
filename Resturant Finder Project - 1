@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T10:13:33.673Z" agent="5.0 (Windows)" etag="uwCS8ZXm2-gwbN8a481L" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T10:39:54.755Z" agent="5.0 (Windows)" etag="DUdgXA4ZgaRdJnosZMOv" version="20.3.7" type="github">
   <diagram id="tOJVR6PH95yDMH4NE0IY" name="Page-1">
     <mxGraphModel dx="1458" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="vdwHPk8I1S3QW_DyrV66-14" value="Get Restaurant Status" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vdwHPk8I1S3QW_DyrV66-15" value="Get Menu items and Prices" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-15" value="View Menu items and Prices" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="370" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vdwHPk8I1S3QW_DyrV66-16" value="Select items" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -84,6 +84,63 @@
               <mxPoint x="360" y="150" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-27" value="Activity Diagram" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="331.1400000000001" y="786.48" as="sourcePoint" />
+            <mxPoint x="901.1399999999999" y="786.48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-28" value="Resturant Finder" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-33" value="User" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;entryX=0.998;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.002;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="331.1400000000001" y="816.1199999999999" as="sourcePoint" />
+            <mxPoint x="898.8600000000001" y="816.1199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="1010" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-39" value="&lt;div&gt;Wrong&lt;/div&gt;&lt;div&gt;Search&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1010" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-40" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1500" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-41" value="&lt;div&gt;Get Resturant &lt;br&gt;&lt;/div&gt;&lt;div&gt;Status&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1140" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-54" value="" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-55" value="&lt;div&gt;Search&lt;/div&gt;&lt;div&gt;Resturant&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="920" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-58" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="782" y="1140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="777" y="1010" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-60" value="&lt;div&gt;View Menu&lt;/div&gt;&lt;div&gt;And Prices&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-61" value="&lt;div&gt;Select Menu&lt;/div&gt;&lt;div&gt;Items&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1320" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-63" value="&lt;div&gt;View Total&lt;/div&gt;&lt;div&gt;Price&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="vdwHPk8I1S3QW_DyrV66-60" target="vdwHPk8I1S3QW_DyrV66-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
