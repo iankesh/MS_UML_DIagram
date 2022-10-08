@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-08T14:19:21.980Z" agent="5.0 (Windows)" etag="nJG_OFH4JawjuEfYmUMU" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T14:28:36.818Z" agent="5.0 (Windows)" etag="uPYod9UkcUdvvkdL8cb5" version="20.4.0" type="github">
   <diagram id="tOJVR6PH95yDMH4NE0IY" name="Page-1">
-    <mxGraphModel dx="2426" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="4hAf7XJDLbfvmovePwoX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="vdwHPk8I1S3QW_DyrV66-41" target="4hAf7XJDLbfvmovePwoX-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vdwHPk8I1S3QW_DyrV66-41" value="&lt;div&gt;Get Restaurant &lt;br&gt;&lt;/div&gt;&lt;div&gt;Status&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="vdwHPk8I1S3QW_DyrV66-41" value="&lt;div&gt;View Restaurant &lt;br&gt;&lt;/div&gt;&lt;div&gt;Status&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="375" y="1065" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vdwHPk8I1S3QW_DyrV66-54" value="" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;fontSize=18;" parent="1" vertex="1">
@@ -187,7 +187,7 @@
         <mxCell id="4hAf7XJDLbfvmovePwoX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="4hAf7XJDLbfvmovePwoX-12" target="4hAf7XJDLbfvmovePwoX-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hAf7XJDLbfvmovePwoX-12" value="&lt;div&gt;Manage Restaurant&lt;/div&gt;&lt;div&gt;&amp;nbsp;List&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4hAf7XJDLbfvmovePwoX-12" value="&lt;div&gt;Manage Restaurant&lt;/div&gt;&lt;div&gt;&amp;nbsp;List (Add/Remove)&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="970" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
@@ -316,7 +316,7 @@
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-46" value="&lt;div&gt;Restaurant&lt;/div&gt;&lt;div&gt;Found&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=none;fontSize=14;" connectable="0" vertex="1" parent="4hAf7XJDLbfvmovePwoX-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="99" as="offset" />
+            <mxPoint x="94" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="4hAf7XJDLbfvmovePwoX-50" target="vdwHPk8I1S3QW_DyrV66-55">
@@ -336,15 +336,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-50" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1050" width="80" height="80" as="geometry" />
+          <mxGeometry x="1080" y="1050" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-55" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1220" width="40" height="40" as="geometry" />
+          <mxGeometry x="1100" y="1240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="4hAf7XJDLbfvmovePwoX-59" target="vdwHPk8I1S3QW_DyrV66-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4hAf7XJDLbfvmovePwoX-59" value="&lt;div&gt;Manage Menu&lt;/div&gt;&lt;div&gt;&amp;nbsp;Items&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="4hAf7XJDLbfvmovePwoX-59" value="&lt;div&gt;Manage Menu&lt;/div&gt;&lt;div&gt;&amp;nbsp;Items (Add/Remove)&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;fontSize=18;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="1250" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4hAf7XJDLbfvmovePwoX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="4hAf7XJDLbfvmovePwoX-62" target="vdwHPk8I1S3QW_DyrV66-63">
